@@ -31,3 +31,6 @@
 |2684.Maximum Number of Moves in a Grid|5.14 |dp|m|py|
 |2685. Count the Number of Complete Components|5.14 |DFS, complete graph， union find|m|py|
 |1799. maximum score after n operations|5.14 |dp, recursion, bit-masking|h|py|
+|2381. Shifting Letters II	|6.22 	|prefix-sum & difference array; char ~ int conversion	|m	|py, java|
+|560. Subarray Sum Equals K	|6.22 	|prefix sum	|m	|py|
+|1575. Count All Possible Routes	|6.25 	|DFS + memo, dp	|h	|py|
