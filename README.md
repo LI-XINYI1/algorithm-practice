@@ -23,7 +23,7 @@
 |1964. Find the Longest Valid Obstacle Course at Each Position|5.7 |dp, binary search|h|py|
 |1263. Minimum Moves to Move a Box to Their Target Location|5.8 |bfs, graph|h|pending!!!!!!|
 |1498. Number of Subsequences That Satisfy the Given Sum Condition|5.6 |2pointers|m|py|
-|649. Dota2 Senate|5.5 |queue|m|py|
+|649. Dota2 Senate|5.5 |brain teaser|m|py|
 |1572. Matrix Diagonal Sum|5.8 |math|e|py|
 |2680. Maximum OR|5.13 |prefix and suffix, greedy, mask of unique bits|m|py|
 |2681. Power of Heroes|5.13 | |h|py|
@@ -34,3 +34,15 @@
 |2381. Shifting Letters II	|6.22 	|prefix-sum & difference array; char ~ int conversion	|m	|py, java|
 |560. Subarray Sum Equals K	|6.22 	|prefix sum	|m	|py|
 |1575. Count All Possible Routes	|6.25 	|DFS + memo, dp	|h	|py|
+|956. Tallest Billboard	|6.26 |	dp|	h	|py |
+|2462. Total Cost to Hire K Workers	|6.26 |	priority queues	|m|	py|
+|373. Find K Pairs with Smallest Sums|	6.27 |	priority queues	|m	|py|
+|1514. Path with Maximum Probability	|6.28 |	bfs|	m	|py|
+|864. Shortest Path to Get All Keys	|6.29 	|bfs, bitmask|	h	|py|
+|2305. Fair Distribution of Cookies	|7.1 	|backtrack|	m	|py|
+|1601. Maximum Number of Achievable Transfer Requests|	7.2| 	backtrack|	h|	py|
+|859. Buddy Strings	|7.3| 	string|	e	|py|
+|137. Single Number II	|7.4 	|bit manipulation	|m|	py|
+|136. Single Number I	|7.4 	|xor	|e	|py|
+|138. Single Number III|	7.4| 	hashmap|	m	|py|
+
