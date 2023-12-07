@@ -45,4 +45,9 @@
 |137. Single Number II	|7.4 	|bit manipulation	|m|	py|
 |136. Single Number I	|7.4 	|xor	|e	|py|
 |138. Single Number III|	7.4| 	hashmap|	m	|py|
+|257. Binary Tree Paths| 9.13 | tree, recursion | e | py|
+|2391. Minimum Amount of Time to Collect Garbage|11.21|math, reverse thinking | e | py|
+|2009,815，23，2046, 5, 253  OA/tiktok | 11| - | m,h|py|
+
+
 
